@@ -14,6 +14,7 @@
 		4E18CCE722659E830091F9E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E18CCE522659E830091F9E0 /* LaunchScreen.storyboard */; };
 		4E18CCF122659ED40091F9E0 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E18CCF022659ED40091F9E0 /* SWRevealViewController.m */; };
 		4E18CCF52265A0340091F9E0 /* sidemenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E18CCF42265A0340091F9E0 /* sidemenu.png */; };
+		4E18CCF72265A0960091F9E0 /* FrontViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E18CCF62265A0960091F9E0 /* FrontViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4E18CCEF22659ED40091F9E0 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		4E18CCF022659ED40091F9E0 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		4E18CCF42265A0340091F9E0 /* sidemenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sidemenu.png; sourceTree = "<group>"; };
+		4E18CCF62265A0960091F9E0 /* FrontViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrontViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				4E18CCF022659ED40091F9E0 /* SWRevealViewController.m */,
 				4E18CCDC22659E830091F9E0 /* AppDelegate.swift */,
 				4E18CCDE22659E830091F9E0 /* ViewController.swift */,
+				4E18CCF62265A0960091F9E0 /* FrontViewController.swift */,
 				4E18CCE022659E830091F9E0 /* Main.storyboard */,
 				4E18CCE322659E830091F9E0 /* Assets.xcassets */,
 				4E18CCE522659E830091F9E0 /* LaunchScreen.storyboard */,
@@ -155,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E18CCF72265A0960091F9E0 /* FrontViewController.swift in Sources */,
 				4E18CCDF22659E830091F9E0 /* ViewController.swift in Sources */,
 				4E18CCDD22659E830091F9E0 /* AppDelegate.swift in Sources */,
 				4E18CCF122659ED40091F9E0 /* SWRevealViewController.m in Sources */,
